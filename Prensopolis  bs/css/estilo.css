@@ -1,0 +1,78 @@
+
+*{
+	margin:15px
+}
+.paddingTB{ align-items: center;
+	padding: 50px 10px 10px 10px; 
+}
+h1, h2, h3, h4 {color: black;}
+
+.container-fluid {
+padding-right: 20px;
+padding-left: 20px;
+margin-right: auto;
+margin-left: auto;
+}
+
+/* seccion servicios*/
+.marketing .col-lg-4 {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+/* seccion nosotras*/
+.featurette-divider {
+  margin: 5rem 0;} 
+ 
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+.row {
+margin-right: -15px;
+margin-left: -15px;
+
+}
+.li2 {
+width: 90px; 
+transition: 2s ;
+display: inline-flex;
+}
+
+.li2:hover {
+width: 30px;
+height: auto; 
+background-color: #b3e971 ; 
+}
+
+a {
+list-style: none ;
+color: #133208 ; 
+}
+
+li { 
+list-style: none ;
+color: #cad6a7 ;
+background-color: #e1e3e1; 
+transition: 2s;
+text-shadow:5px 5px 10px #000000;}
+
+
+.ig {width: 40px; }
+.fb {width: 40px; }
+
+		
+	
+
+
+
